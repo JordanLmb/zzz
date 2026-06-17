@@ -1,0 +1,17 @@
+{
+  "name": "neodium-miner",
+  "version": "1.0.0",
+  "description": "Bot de minage automatique pour Neodium Minecraft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "minecraft-data": "^3.69.0",
+    "mineflayer": "^4.23.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "prismarine-viewer": "^1.33.0",
+    "vec3": "^0.1.10"
+  }
+}
